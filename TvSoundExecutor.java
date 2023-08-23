@@ -1,0 +1,31 @@
+class TvSoundExecutor{
+public static void main (String Remote[])
+{
+TvSound.onOrOff();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.increaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.decreaseSound();
+TvSound.increaseSound();
+TvSound.onOrOff();
+}
+}
